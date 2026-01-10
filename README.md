@@ -27,12 +27,12 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=NK8998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK8998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
   </div>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NK8998&style=flat-square&color=blue" alt="Profile Views" />
 </div>
