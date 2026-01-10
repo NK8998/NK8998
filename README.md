@@ -25,14 +25,11 @@
 <br/>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=NK8998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NK8998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
-    </a>
-  </p>
+  <img src="https://streak-stats.demolab.com?user=NK8998&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=NK8998&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
 </div>
 
 <br/>
