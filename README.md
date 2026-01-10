@@ -25,15 +25,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NK8998&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=NK8998&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=NK8998&style=flat-square&color=blue" alt="Profile Views" />
 </div>
