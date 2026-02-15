@@ -13,8 +13,8 @@
 
 <hr/>
 
-### 🛠️ Languages & Tools
 <div align="center">
+  <h3>🛠️ Languages & Tools</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=java,cpp,js,ts" />
     <br/><br/>
